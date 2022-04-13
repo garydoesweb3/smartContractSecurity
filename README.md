@@ -1,3 +1,3 @@
 # smartContractSecurity
 
-This Repo is to explore potential smart contract security issues so that I can learn how to assess and solve any issues before they arise.
+This Repo is to explore smart contract security using a real estate smart contract for a simpel purchase agreement.
